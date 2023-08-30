@@ -1,4 +1,4 @@
-## Hi, I'm Ali Hossain 👋
+## Hi, I'm Masud Molla 👋
 
 <p>
 👑 I am Web Developer <br> 
@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/masudmolla99" target="blank"><img src="https://img.shields.io/twitter/follow/Masud Molla?logo=twitter&style=for-the-badge" alt="shovoalways" /></a> </p>
 
 ## 🚀 About Me
-I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP. 
+I'm a Front End Web Developer who is passionate about creating websites that are free of errors and have 100% satisfied customers. I am incredibly passionate about education and openly imparting my knowledge to others. I enjoy finding practical solutions to issues. I always approach my task with a plan of action and a clear end in mind. For my clients, I've made hundreds of websites throughout the years. I take pride in doing top-notch work and keeping up a high standard of communication. ReactJS, JavaScript, and PHP are some of the technologies I enjoy working with, however I use WordPress the most of the time. 
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ WordPress <br> 
